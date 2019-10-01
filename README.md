@@ -1,4 +1,4 @@
-# This is my Portfolio. ]
+# This is my Portfolio. 
 
 My Developer Portfolio. Work in progress.
 
